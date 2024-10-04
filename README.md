@@ -21,8 +21,6 @@ Welcome to the documentation repository for websites and services by Third Gener
 
 ## Project Overview
 
-Provide a brief overview of your services and projects here. For example:
-
 - **Web Development**: Custom websites tailored to your needs.
 - **E-commerce Solutions**: Integrated payment systems and user authentication.
 - **Consultation Services**: Professional advice to help you succeed online.
